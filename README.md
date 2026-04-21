@@ -26,8 +26,8 @@ This repository contains my daily Data Structures and Algorithms (DSA) practice.
 
 | Day   | Problem | Approach          | Status |
 | ----- | ------- | ----------------- | ------ |
-| Day 1 | Two Sum | Brute Force       | ✅      |
-| Day 2 | Two Sum | HashMap (Optimal) | ✅      |
+| Day 1 | Two Sum | Brute Force and HashMap      | ✅      |
+| Day 2 | Contains Duplicate | HashSet and Brute Force | ✅      |
 
 ---
 
