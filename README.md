@@ -15,9 +15,7 @@ This repository contains my daily Data Structures and Algorithms (DSA) practice.
 
 ## 🧠 Topics Covered
 
-* Arrays
-* Strings
-* Hashing
+* Arrays(Brute Force, HashMap and HashSet)
 * (More coming soon...)
 
 ---
