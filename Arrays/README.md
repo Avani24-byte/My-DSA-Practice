@@ -28,6 +28,7 @@ This repository contains my daily Data Structures and Algorithms (DSA) practice.
 | ----- | ------- | ----------------- | ------ |
 | Day 1 | Two Sum | Brute Force and Hashmap     | ✅      |
 | Day 2 | Contains Duplicate | HashSet and Brute Force | ✅      |
+| Day 3 | Best time to Buy and Sell Stock | One pass | ✅      |
 
 ---
 
