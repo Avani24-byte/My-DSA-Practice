@@ -15,7 +15,7 @@ This repository contains my daily Data Structures and Algorithms (DSA) practice.
 
 ## 🧠 Topics Covered
 
-* Arrays(Brute Force, HashMap and HashSet)
+* Arrays(One pass, Brute Force, HashMap and HashSet)
 * (More coming soon...)
 
 ---
@@ -26,6 +26,7 @@ This repository contains my daily Data Structures and Algorithms (DSA) practice.
 | ----- | ------- | ----------------- | ------ |
 | Day 1 | Two Sum | Brute Force and HashMap      | ✅      |
 | Day 2 | Contains Duplicate | HashSet and Brute Force | ✅      |
+| Day 3 | Best Time to Buy and Sell Stock | One pass and Brute Force | ✅      |
 
 ---
 
