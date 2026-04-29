@@ -15,7 +15,7 @@ This repository contains my daily Data Structures and Algorithms (DSA) practice.
 
 ## 🧠 Topics Covered
 
-* Arrays(One pass, Brute Force, HashMap and HashSet)
+* Arrays(One pass,Kadane's Algorithm, Greedy, Hashing, Bruteforce)
 * (More coming soon...)
 
 ---
