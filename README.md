@@ -15,7 +15,8 @@ This repository contains my daily Data Structures and Algorithms (DSA) practice.
 
 ## 🧠 Topics Covered
 
-* Arrays(One pass,Kadane's Algorithm, Greedy, Hashing, Bruteforce)
+* Arrays
+* Patterns : Two Pointers, Kadane's Algorithm, Greedy, Hashing, Bruteforce
 * (More coming soon...)
 
 ---
@@ -28,6 +29,7 @@ This repository contains my daily Data Structures and Algorithms (DSA) practice.
 | Day 2 | Contains Duplicate | HashSet and Brute Force | ✅      |
 | Day 3 | Best Time to Buy and Sell Stock | One pass and Brute Force | ✅      |
 | Day 4 | Maximum Subarray | Kadane's Algorithm | ✅      |
+| Day 5 | Move Zeros | Two pointers | ✅      |
 
 ---
 
