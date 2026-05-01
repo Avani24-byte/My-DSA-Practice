@@ -1,5 +1,6 @@
 //Problem: Best Time to Buy and Sell Stock
 //Approach: One Pass
+//Difficulty: Easy
 //Time Complexity: O(n)
 //Space Complexity: O(1)
 

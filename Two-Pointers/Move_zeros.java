@@ -1,5 +1,6 @@
 //Problem: Move Zeroes
 //Approach: Two Pointers
+//Difficulty: Easy
 //Time Complexity: O(n)
 //Space Complexity: O(1)
 

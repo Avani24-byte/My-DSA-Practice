@@ -20,6 +20,7 @@ class Solution {
 
 //Problem: Two Sum
 //Approach: HashMap
+//Difficulty: Easy
 //Time Complexity: O(n)
 //Space Complexity: O(n)
 

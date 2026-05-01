@@ -1,5 +1,6 @@
 //Problem: Maximum Subarray
 //Approach: Kadane's Algorithm
+//Difficulty: Easy
 //Time Complexity: O(n)
 // Space Complexity: O(n)
 

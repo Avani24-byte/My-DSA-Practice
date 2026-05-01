@@ -1,5 +1,6 @@
 //Problem: Product of Array Except Self
 //Approach: Prefix and Suffix Product
+//Difficulty: Medium
 //Time Complexity: O(n)
 //Space Complexity: O(n)
 

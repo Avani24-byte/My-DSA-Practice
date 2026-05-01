@@ -19,6 +19,7 @@ public class Containsduplicate {
 
 //problem: Contains Duplicate
 //Approach: HashSet
+//Difficulty: Easy
 //Time Complexity: O(n)
 //Space Complexity: O(n)
 class Solution {
