@@ -2,6 +2,7 @@
 //Approach: Prefix and Suffix Product
 //Time Complexity: O(n)
 //Space Complexity: O(n)
+
 class Solution {
     public int[] productExceptSelf(int[] nums) {
         int n =nums.length;
@@ -27,6 +28,35 @@ class Solution {
             ans[i]= prefix[i] * suffix[i];
         }
         return ans;
+        
+    }
+}
+
+//Problem: Product of Array Except Self
+//Approach: Brute Force
+//Time Complexity: O(n^2)
+//Space Complexity: O(n)
+
+class Solution {
+    public int[] productExceptSelf(int[] nums) {
+        int n =nums.length;
+
+        int[] ans = new int[n];
+
+        for(int i=0;i<n;i++){
+            int product =1;
+        
+
+        for(int j=0;j<n;j++){
+            if(i!=j){
+                product *=nums[j];
+            }
+        }
+
+        ans[i] = product;
+    }
+
+    return ans;
         
     }
 }
