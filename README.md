@@ -25,9 +25,9 @@ This repository contains my daily Data Structures and Algorithms (DSA) practice.
 
 | Day   | Problem | Approach          | Status |
 | ----- | ------- | ----------------- | ------ |
-| Day 1 | Two Sum | Brute Force and HashMap      | ✅      |
-| Day 2 | Contains Duplicate | HashSet and Brute Force | ✅      |
-| Day 3 | Best Time to Buy and Sell Stock | One pass and Brute Force | ✅      |
+| Day 1 | Two Sum | HashMap | ✅      |
+| Day 2 | Contains Duplicate | HashSet | ✅      |
+| Day 3 | Best Time to Buy and Sell Stock | Greedy/Onepass | ✅      |
 | Day 4 | Maximum Subarray | Kadane's Algorithm | ✅      |
 | Day 5 | Move Zeros | Two pointers | ✅      |
 
