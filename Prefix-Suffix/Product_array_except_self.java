@@ -1,6 +1,6 @@
 //Problem: Product of Array Except Self
 //Approach: Prefix and Suffix Product
-//Difficulty: Medium
+//Difficulty: Medium 
 //Time Complexity: O(n)
 //Space Complexity: O(n)
 
@@ -35,6 +35,7 @@ class Solution {
 
 //Problem: Product of Array Except Self
 //Approach: Brute Force
+//Difficulty: Medium
 //Time Complexity: O(n^2)
 //Space Complexity: O(n)
 

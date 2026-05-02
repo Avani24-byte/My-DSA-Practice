@@ -23,6 +23,7 @@ class Solution {
 
 //Problem: Best Time to Buy and Sell Stock
 //Approach: Brute Force
+//Difficulty: Easy
 //Time Complexity: O(n^2)
 //Space Complexity: O(1)
 

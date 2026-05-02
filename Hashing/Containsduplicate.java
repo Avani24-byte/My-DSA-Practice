@@ -1,5 +1,6 @@
 //Problem: Contains Duplicate
 //Approach: Brute Force
+//Difficulty: Easy
 //Time Complexity: O(n^2)
 //Space Complexity: O(1)
 
