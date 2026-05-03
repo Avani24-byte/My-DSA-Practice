@@ -31,6 +31,7 @@ This repository contains my daily Data Structures and Algorithms (DSA) practice.
 | Day 4 | Maximum Subarray | Kadane's Algorithm | ✅      |
 | Day 5 | Move Zeros | Two pointers | ✅      |
 | Day 6 | Product of Arrays except Self | Prefix and Suffix products  | ✅      |
+| Day 7 | Container with most Water | Two pointers | ✅      |
 
 ---
 
