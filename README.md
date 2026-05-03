@@ -51,7 +51,7 @@ This repository contains my daily Data Structures and Algorithms (DSA) practice.
 
 ## 📈 Consistency Rule
 
-> No zero days. Even one problem counts.
+> No matter what. No zero days. Even one problem counts.
 
 ---
 
