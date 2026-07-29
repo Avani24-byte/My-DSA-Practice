@@ -62,5 +62,3 @@ This repository contains my daily Data Structures and Algorithms (DSA) practice.
 * Solve 100+ DSA problems
 * Master core concepts
 * Crack technical interviews
-
-⭐ If you're also on a DSA journey, feel free to follow along!
