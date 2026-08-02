@@ -16,7 +16,7 @@ This repository contains my daily Data Structures and Algorithms (DSA) practice.
 ## 🧠 Topics Covered
 
 * Arrays
-* Patterns :  Prefix and Suffix, Two Pointers, Kadane's Algorithm, Greedy, Hashing, Bruteforce
+* Patterns :  Prefix and Suffix, Two Pointers, Kadane's Algorithm, Greedy, Hashing, Reverse, Bruteforce
 * (More coming soon...)
 
 ---
@@ -33,6 +33,7 @@ This repository contains my daily Data Structures and Algorithms (DSA) practice.
 | Day 6 | Product of Arrays except Self | Prefix and Suffix products  | ✅      |
 | Day 7 | Container with most Water | Two pointers | ✅      |
 | Day 8 | GCD of Odd and Even Sums | Math | ✅      |
+| Day 9 | Rotate Array | Reverse Array | ✅      |
 
 ---
 
