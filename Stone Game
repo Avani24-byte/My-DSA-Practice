@@ -1,0 +1,11 @@
+//problem: Stone Game
+//Approach : Dynamic Programming
+//Time Complexity : O(n^2)
+//Space Complexity : O(n^2)
+
+class Solution {
+    public boolean stoneGame(int[] piles) {
+        return true;
+        
+    }
+}
