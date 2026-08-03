@@ -16,7 +16,7 @@ This repository contains my daily Data Structures and Algorithms (DSA) practice.
 ## 🧠 Topics Covered
 
 * Arrays
-* Patterns :  Prefix and Suffix, Two Pointers, Kadane's Algorithm, Greedy, Hashing, Reverse, Bruteforce
+* Patterns :  Prefix and Suffix, Two Pointers, Kadane's Algorithm, Greedy, Hashing, Reverse, Minmax, Bruteforce
 * (More coming soon...)
 
 ---

@@ -1,5 +1,5 @@
 //problem: Stone Game
-//Approach : Dynamic Programming
+//Approach : Minimax with memoization
 //Time Complexity : O(n^2)
 //Space Complexity : O(n^2)
 
