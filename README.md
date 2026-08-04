@@ -35,6 +35,7 @@ This repository contains my daily Data Structures and Algorithms (DSA) practice.
 | Day 8 | GCD of Odd and Even Sums | Math | ✅      |
 | Day 9 | Rotate Array | Reverse Array | ✅      |
 | Day 10 | Find first and last element of sorted array | Binary Search | ✅      |
+| Day 11 | Search in rotated sorted array | Binary Search | ✅      |
 
 ---
 
