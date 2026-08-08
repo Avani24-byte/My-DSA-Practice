@@ -39,6 +39,7 @@ This repository contains my daily Data Structures and Algorithms (DSA) practice.
 | Day 12 | Find Minimum in rotated sorted array | Binary Search | ✅      |
 | Day 13 | Running sum of 1d Array | Prefix Sum | ✅      |
 | Day 14 | Missing Number | Math | ✅      |
+| Day 15 | Reverse String | Two Pointers | ✅      |
 
 ---
 
