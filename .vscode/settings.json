@@ -1,0 +1,10 @@
+{
+    "chat.disableAIFeatures": false,
+    "editor.inlineSuggest.enabled": true,
+    "editor.tabCompletion": "on",
+    "editor.quickSuggestions": {
+        "other": "on",
+        "comments": "on",
+        "strings": "on"
+    }
+}
