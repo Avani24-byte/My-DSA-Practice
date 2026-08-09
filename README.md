@@ -40,6 +40,7 @@ This repository contains my daily Data Structures and Algorithms (DSA) practice.
 | Day 13 | Running sum of 1d Array | Prefix Sum | ✅      |
 | Day 14 | Missing Number | Math | ✅      |
 | Day 15 | Reverse String | Two Pointers | ✅      |
+| Day 16 | Build Array from Permutations | Array | ✅      |
 
 ---
 
