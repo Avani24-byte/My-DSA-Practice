@@ -42,6 +42,7 @@ This repository contains my daily Data Structures and Algorithms (DSA) practice.
 | Day 15 | Reverse String | Two Pointers | ✅      |
 | Day 16 | Build Array from Permutations | Array | ✅      |
 | Day 17 | Stone Game | Math | ✅      |
+| Day 18 | Remove duplicates from sorted array | Two Pointers | ✅      |
 
 ---
 
