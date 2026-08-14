@@ -43,6 +43,7 @@ This repository contains my daily Data Structures and Algorithms (DSA) practice.
 | Day 16 | Build Array from Permutations | Array | ✅      |
 | Day 17 | Stone Game | Math | ✅      |
 | Day 18 | Remove duplicates from sorted array | Two Pointers | ✅      |
+| Day 19 | XOR Operation in an array | Array | ✅      |
 
 ---
 
