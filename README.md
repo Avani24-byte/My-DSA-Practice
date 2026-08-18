@@ -46,6 +46,8 @@ This repository contains my daily Data Structures and Algorithms (DSA) practice.
 | Day 19 | XOR Operation in an array | Array | ✅      |
 | Day 20 | Shuffle the Array | Array | ✅      |
 | Day 21 | Kids with greatest number of candies | Array | ✅      |
+| Day 22 | Single Number | Bit Manipulation | ✅      |
+
 
 
 ---
