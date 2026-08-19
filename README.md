@@ -47,6 +47,8 @@ This repository contains my daily Data Structures and Algorithms (DSA) practice.
 | Day 20 | Shuffle the Array | Array | ✅      |
 | Day 21 | Kids with greatest number of candies | Array | ✅      |
 | Day 22 | Single Number | Bit Manipulation | ✅      |
+| Day 23 | Middle in Linked List | Two Pointers | ✅      |
+
 
 
 
