@@ -1,0 +1,21 @@
+//Problem: Final Value of Variable After Performing Operations
+//Approach: Array Traversal
+//Time Complexity: O(n)
+//Space Complexity: O(1)
+//Difficulty: Easy
+
+class Solution {
+    public int finalValueAfterOperations(String[] operations) {
+        int x = 0;
+
+        for (String operation : operations) {
+            if (operation.contains("++")) {
+                x++;
+            } else {
+                x--;
+            }
+        }
+
+        return x;
+    }
+}
