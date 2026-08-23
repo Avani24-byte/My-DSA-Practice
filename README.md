@@ -49,7 +49,7 @@ This repository contains my daily Data Structures and Algorithms (DSA) practice.
 | Day 22 | Single Number | Bit Manipulation | ✅      |
 | Day 23 | Middle in Linked List | Two Pointers | ✅      |
 | Day 24 | Final Value of Variable after performing Operations | Array Traversal | ✅      |
-
+| Day 25 | Group Anagrams | Hashmap | ✅      |
 
 
 
