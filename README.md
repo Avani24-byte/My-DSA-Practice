@@ -3,7 +3,13 @@
 Hi, I'm Avni 👋
 This repository contains my daily Data Structures and Algorithms (DSA) practice.
 
+---
 
+## 📌 Goal
+
+* Solve at least **1 problem every day**
+* Improve problem-solving skills
+* Prepare for coding interviews
 
 ---
 
