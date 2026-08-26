@@ -71,17 +71,7 @@ This repository contains my daily Data Structures and Algorithms (DSA) practice.
 
 ---
 
-## 📈 Consistency Rule
 
-> No matter what. No zero days. Even one problem counts.
-
----
-
-## 🌱 Future Plan
-
-* Solve 100+ DSA problems
-* Master core concepts
-* Crack technical interviews
 
 
 ⭐ If you're also on a DSA journey, feel free to follow along!
