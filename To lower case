@@ -1,0 +1,11 @@
+//Problem: To Lower Case
+//Approach: String class in Java has a built-in method toLowerCase() which converts all the characters in the string to lower case. We can simply call this method on the input string and return the result.
+//Time Complexity: O(n), where n is the length of the input string. We need to iterate through each character in the string to convert it to lower case.
+//Space Complexity: O(n), where n is the length of the input string. The toLowerCase() method creates a new string with the converted characters, which requires additional space.
+//Difficulty: Easy
+
+class Solution {
+    public String toLowerCase(String s) {
+        return s.toLowerCase();
+    }
+}
